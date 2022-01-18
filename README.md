@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/luigidonadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigidonadel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luigidonadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi.donadel" height="30" width="40" /></a>
-<a href="https://fb.com/luigi.donadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luigi.donadel" height="30" width="40" /></a>
+<a href="https://fb.com/luigi.donadel97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luigi.donadel" height="30" width="40" /></a>
 <a href="https://instagram.com/luigidonadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luigi.donadel" height="30" width="40" /></a>
 <a href="https://medium.com/@donadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@donadev" height="30" width="40" /></a>
 </p>
