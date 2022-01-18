@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How bots can change mobile platforms](https://medium.com/@donadev/how-chats-could-dominate-mobile-platforms-5971b5346ea1?source=rss-12fde5934bc5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
