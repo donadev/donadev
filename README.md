@@ -11,11 +11,6 @@
 - 💬 Ping me about **swift**, **kotlin**, **machinelearning**, **blockchain**
 - 📫 Reach me: [twitter.com/luigidonadel](https://twitter.com/luigidonadel)
 
-#### BLOG POSTS
-<!-- BLOG-POST-LIST:START -->
-- [How bots can change mobile platforms](https://medium.com/@donadev/how-chats-could-dominate-mobile-platforms-5971b5346ea1?source=rss-12fde5934bc5------2)
-<!-- BLOG-POST-LIST:END -->
-
 
 #### PLAY MY GAME
 <img src="https://github.com/donadev/TicTacToe/blob/main/games/current/output.png?raw=true" width="100" height="100" />
