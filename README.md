@@ -10,9 +10,3 @@
 - 🌱 Learning all about **Blockchain and Web3.0**
 - 💬 Ping me about **swift**, **kotlin**, **machinelearning**, **blockchain**
 - 📫 Reach me: [twitter.com/luigidonadel](https://twitter.com/luigidonadel)
-
-
-#### PLAY MY GAME
-<img src="https://github.com/donadev/TicTacToe/blob/main/games/current/output.png?raw=true" width="100" height="100" />
-
-Go to [TicTacToe](https://github.com/donadev/TicTacToe) and play my collaborative game.
