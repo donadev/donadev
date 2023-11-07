@@ -1,6 +1,6 @@
 ## Hi there, I'm Luigi 👋
 
-### A Mobile Developer from Pordenone, Italy🇮🇹
+### A Mobile Developer from Milan, Italy🇮🇹
 
 #### BIO
 
